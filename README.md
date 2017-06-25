@@ -13,3 +13,5 @@ https://github.com/karan/Projects
 http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/  
 
 
+## Useful links
+https://docs.python.org/3/tutorial/controlflow.html  
