@@ -3,7 +3,7 @@
 
 
 
-# project
+# Project
 First python project. 
 
 
